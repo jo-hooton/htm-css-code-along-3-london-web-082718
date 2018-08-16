@@ -32,3 +32,8 @@ figcaption {
 }
 
 /* ID selector can only be applied to one element per page */
+
+#logo { /* select elements with the id="logo" */
+  background: aqua
+
+}
